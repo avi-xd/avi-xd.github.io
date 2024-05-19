@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Hi, I am Aviral Verma
+  Hi!!
 </p>
 
 <p>
-  LOL
+  Aviral Here
 </p>
